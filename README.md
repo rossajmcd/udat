@@ -16,4 +16,4 @@ Build, run and flash the watchface following the [PlatformIO instructions](https
 
 ## Roadmap
 
-See the Github Repository for roadmap details.
+See the Github Repository [roadmap](https://github.com/rossajmcd/udat/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement) details.
