@@ -2,6 +2,10 @@
 
 ## About
 
+Why the name Udat? I've always loved Peter F Hamilton's books and in the Nightsdawn Trilody particularly I love the sentient spaceships.
+
+Why a Watchy watch? I love the Apple ecosysyem, I always have. Sometimes though you need something open and hackable so you can make anything you want.
+
 Based on the standard 7_SEG watch face example.
 
 Adds:
